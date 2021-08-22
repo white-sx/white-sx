@@ -1,12 +1,15 @@
-## Olá, eu sou o Rafael Santos
+ ## Olá, eu sou o Rafael Santos
 
+
+<img align="left" height="80" alt="Rafa-poke" src="https://i.giphy.com/media/nPu9aQYq1dQbu/giphy.webp">
+                
 <div>
 
   <a href="https://github.com/rafaballerini">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=white-sx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=white-sx&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=white-sx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=white-sx&layout=compact&langs_count=7&theme=highcontrast"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,7 +24,7 @@
 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-<img align="right" height="300" alt="Rafa-poke" src="https://media3.giphy.com/media/EPQJLowSRf116TzSxz/giphy.gif?cid=82a1493bfm4udzohctomwjdb7gogzf0oa0jh1rrosps24079&rid=giphy.gif&ct=s">
+<img align="right" height="" alt="Rafa-poke" src="https://media3.giphy.com/media/mbSaWNqVtxgcM/giphy.gif?cid=6c09b952bda70cf538cf26dcac3ba33d22f16599e1269c35&rid=giphy.gif&ct=s">
 
 </div>
 
