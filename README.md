@@ -1,4 +1,4 @@
- ## 🙋🏻‍♂️ Olá, eu sou o Rafael
+ ##  Olá, eu sou o Rafael
 
 Sou estudante de programação, estudo através de cursos online, e o mais breve possível pretendo conseguir um emprego na área.
 
