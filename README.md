@@ -20,7 +20,7 @@
 </p>
 
 <p align = "left">
-  <a href="faelsants10@gmail.com" alt="Gmail">
+  <a href="malito:faelsants10@gmail.com" alt="Gmail">
   <img src = "https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /> </a>
 
   <a href="https://www.linkedin.com/in/rafael-santos-17834a20b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B56ODMKmoQ%2FKJ%2BZ0C96TEgg%3D%3D" alt="Linkedin">
