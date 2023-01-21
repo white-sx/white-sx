@@ -2,9 +2,8 @@
 <img src = "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "Computador iuriCode">
 
 <p align = "left"> 
-  Meu nome é Rafael, tenho 20 anos e venho estudando através de cursos online para me tornar um  <strong> desenvolvedor front-end </strong>, criando projetos pessoais. Ainda não tive nenhuma oportunidade de atuar profissionalmente mas sigo em busca de uma vaga, se pudesse me definir em 3 palavras seriam determinado, focado e disciplinado. <br>
-
- Atualmente venho trablhando na criaçao do meu portifólio,  você pode da uma olhada <a href="https://rafaelsantos-portifolio.vercel.app/" alt="Portifólio Rafael"> AQUI</a>, e em projetos para fazerem parte do mesmo.
+   Meu nome é Rafael, tenho 21 anos e venho estudando através de cursos online para me tornar um  <strong> desenvolvedor front-end </strong>.
+  Venho desenvolvendo vários projetos pessoais, que estão aqui no github, colocando meus conhecimentos a prova e me aperfeiçoando, adquirindo novos conhecimentos e       sempre evoluindo. <br>
 </p>
 
 <p align = "left">
